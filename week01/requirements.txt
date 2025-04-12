@@ -1,0 +1,10 @@
+jupyter
+pandas
+beautifulsoup4
+selenium
+matplotlib
+wordcloud
+konlpy
+transformers
+torch
+scikit-learn
