@@ -1,0 +1,12 @@
+# Python 관련
+__pycache__/
+*.pyc
+
+# Jupyter 관련
+.ipynb_checkpoints/
+
+# 가상환경
+venv/
+
+# OS
+.DS_Store
