@@ -15,7 +15,8 @@
 ## ⚙️ 프로젝트 실행 방법
 
 1. 가상환경 생성  
-```bash python -m venv venv```
+```bash
+python -m venv venv```
 
 2. 가상환경 활성화
 ```Windows: venv\Scripts\activate```
